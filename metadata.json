@@ -1,0 +1,6 @@
+{
+  "name": "DocuMorph",
+  "description": "Convert Word (.docx) documents to PDF entirely in your browser with offline-first indexing, AdSense integration, and Play Store v2.0 compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
